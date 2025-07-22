@@ -1,5 +1,4 @@
-//Leetcode 1 : Two sum
-
+// Leetcode : Two Sum
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int i=0,j=0;
