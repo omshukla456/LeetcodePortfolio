@@ -1,4 +1,4 @@
-// Leetcode:5 Maximum Subarray
+// Leetcode:5 Longest SubString
 
 import java.util.HashSet;
 class Solution {
