@@ -12,7 +12,7 @@ class Solution {
       //Sub array iteration with unique words
       for(right = 0 ; right < s.length() ; right++)
       {
-        //checking if string char at right pointer has any word which is already in the set
+        //checking char at right pointer present in the set
         while(set.contains(s.charAt(right)))
         {
             //removing duplicate
